@@ -1,0 +1,73 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+header{
+    background-color: aqua;
+}
+
+.logo{
+    text-align: left;
+    width: 95%;
+    padding: 10px;
+    padding-bottom: 0%;
+}
+
+.menu{
+    text-align: right;
+    width: 95%;
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+
+.frase{
+    font-size:500%;
+    font-weight: bolder;
+}
+
+.izq1{
+    text-align: left;
+    margin: auto;
+    padding-left: 10%;
+}
+
+.foto1{
+    text-align: right;
+    margin-top: -25%;
+}
+
+.vacunas{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.pregunta{
+    font-size:500%;
+    font-weight: bolder;
+}
+
+table{
+    width: 95%;
+    padding: 30px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.prevac{
+    text-align: right;
+    margin-top: -25%;
+    font-weight: bold;
+}
+
+.contacto{
+    font-size:500%;
+    font-weight: bolder;
+    margin-top: 20%;
+}
+
+footer{
+    background-color: aqua;
+}
